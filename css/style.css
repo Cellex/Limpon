@@ -1,0 +1,220 @@
+body {
+    font-family: 'Open Sans',sans-serif;
+    color: #9ba3ba;
+    font-size:16px;
+    line-height: 26px;
+}
+
+h1 {
+    font-size:80px;
+    font-weight:600;
+    color: #192b59;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav
+{
+    font-size:12px;
+    color: #6e7ea9;
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.btn-free {
+    color: #fff;
+    font-weight: 400;
+    background-color: #1085e4;
+    padding: 9px 30px;
+    border-radius: 20px;
+}
+
+.grid h2 {
+    font-size: 40px;
+    font-weight:700;
+    color:#192b59;
+}
+
+.grid h2 span {
+display: block;
+font-size: 14px;
+color: #1085e4;
+
+}
+
+.grid span {
+    color: #192b59;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.grid h3 {
+    color: #1085e4;
+    font-size: 14px;
+    font-weight:400;
+}
+
+.grid-item h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #192b59;
+}
+.grid-item a {
+    color: #1085e4;
+    font-size:14px;
+    font-weight:600px;
+}
+
+.page-subscribe span {
+    color: #1085e4;
+    font-size: 14pt;
+    display: block;
+    font-weight: 800;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom:10px;
+
+}
+.page-subscribe {
+    background-color: #0c2795;
+}
+.page-subscribe h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.page-subscribe p {
+    font-size: 18px;
+    font-weight: 400;
+    color:#dfe8ff;
+}
+
+.page-subscribe input {
+   
+    padding: 20px 200px 20px 30px;
+    background-color: transparent;
+    border-radius: 30px;
+    font-size: 14px;
+    color:#b1c3ee;
+    border: 2px solid #4161b5;
+}
+
+.page-subscribe button {
+    background-color:#1085e4;
+    padding:15px 45px;
+    font-size:14px;
+    color:#fff;
+    font-weight: 700;
+    border:none;
+    border-radius: 30px;
+    margin: -210px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+
+}
+
+.page-software h2 {
+    color: #192b59;
+    font-size:50px;
+    font-weight:600;
+}
+
+dt {
+    color: #5a6789;
+    font-size: 16px;
+    font-weight:700;
+    
+}
+
+.span-header {
+    display: block;
+    letter-spacing:0.2em;
+    color: #1085e4;
+    font-weight:800;
+    font-size:16px;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+
+.page-stat h2 {
+    font-size: 50px;
+    color: #192b59;
+    font-weight:600;
+    text-align: center;
+    
+
+}
+
+.results {
+  font-size:60px;
+  color: #bacbdc;
+  font-weight:700;
+  letter-spacing:normal
+}
+
+.page-stat ul {
+    list-style-type: none;
+}
+
+.page-stat li {
+    color:#1085e4;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing:0.2em;
+    font-weight:700;
+}
+
+.page-app  h2 {
+    font-size:50px;
+    color: #192b59;
+    font-weight: 600;
+
+}
+
+.page-app p {
+    color: #7581a1;
+    
+}
+
+.page-app h3 {
+    font-weight:700;
+    color:#c4d2dd;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.page-analytics h2 {
+    font-size:50px;
+    color: #192b59;
+    font-weight:600;
+
+}
+
+.page-analytics a {
+    color: #192b59;
+    background-color: #1085e4;
+    font-size:12px;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    border-radius: 30px;
+    font-weight:700;
+}
+
+.page-app a {
+font-size: 12px;
+color: #fff;
+background-color: #1085e4;
+font-weight: 700;
+letter-spacing: 0.2em;
+padding: 15px 35px;
+border-radius: 30px;
+text-transform: uppercase;
+}
