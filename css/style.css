@@ -316,7 +316,9 @@ background-size: cover;
     position: relative;
     
 }
-
+.box-subscribe-text {
+    max-width:410px;
+}
 .box-subscribe-child {
     flex-basis: 49%;
 }
